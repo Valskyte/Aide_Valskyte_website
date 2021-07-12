@@ -1,7 +1,6 @@
 import React from "react"
 import "./styles/comingsoon.css"
-// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-// import { faLinkedin } from "@fortawesome/free-brands-svg-icons"
+
 
 export default function Home() {
   return (
